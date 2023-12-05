@@ -1,0 +1,6 @@
+Y:\Хакимов Тимур\4 Курс\директорская\NaitiKino\NaitiKino\obj\Debug\NaitiKino.csproj.AssemblyReference.cache
+Y:\Хакимов Тимур\4 Курс\директорская\NaitiKino\NaitiKino\obj\Debug\MainWindow.g.cs
+Y:\Хакимов Тимур\4 Курс\директорская\NaitiKino\NaitiKino\obj\Debug\App.g.cs
+Y:\Хакимов Тимур\4 Курс\директорская\NaitiKino\NaitiKino\obj\Debug\NaitiKino_Content.g.cs
+Y:\Хакимов Тимур\4 Курс\директорская\NaitiKino\NaitiKino\obj\Debug\NaitiKino_MarkupCompile.cache
+Y:\Хакимов Тимур\4 Курс\директорская\NaitiKino\NaitiKino\obj\Debug\NaitiKino_MarkupCompile.lref

@@ -1,0 +1,24 @@
+﻿<Page x:Class="NaitiKino.Registration"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NaitiKino"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="350"
+      Title="Registration">
+
+    <Grid>
+        <StackPanel Background="White" RenderTransformOrigin="1.052,0.563">
+            <TextBlock Text="ФИО"/>
+            <TextBox x:Name="NameTextBox"/>
+            <TextBlock Text="Имя"/>
+            <TextBox x:Name="NikNameTextBox"/>
+            <TextBlock Text="Логин"/>
+            <TextBox x:Name="LoginTextBox"/>
+            <TextBlock Text="Пароль"/>
+            <TextBox x:Name="PasswordTextBox"/>
+            <Button x:Name="Regist" Content="Зарегистрировться" Click="Blogin_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>
